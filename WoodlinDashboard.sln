@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoodlinDashboard", "WoodlinDashboard\WoodlinDashboard.csproj", "{69386470-F060-40EB-A163-98A478452750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardLib", "DashboardLib\DashboardLib.csproj", "{E8A0C48A-07FC-4ED7-A79D-0CA7622F1A96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{69386470-F060-40EB-A163-98A478452750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69386470-F060-40EB-A163-98A478452750}.Release|Any CPU.Build.0 = Release|Any CPU
 		{69386470-F060-40EB-A163-98A478452750}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E8A0C48A-07FC-4ED7-A79D-0CA7622F1A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A0C48A-07FC-4ED7-A79D-0CA7622F1A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A0C48A-07FC-4ED7-A79D-0CA7622F1A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A0C48A-07FC-4ED7-A79D-0CA7622F1A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
